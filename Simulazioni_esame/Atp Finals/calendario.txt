@@ -1,0 +1,20 @@
+GIRONE VERDE 
+GIORNATA 1 
+Djokovic vs Sinner 
+Rublev vs Zverev 
+GIORNATA 2 
+Djokovic vs Zverev 
+Rublev vs Sinner 
+GIORNATA 3 
+Djokovic vs Rublev 
+Sinner vs Zverev 
+GIRONE ROSSO 
+GIORNATA 1 
+Alcaraz vs Medvedev 
+Tsitsipas vs Rune 
+GIORNATA 2 
+Alcaraz vs Rune 
+Tsitsipas vs Medvedev 
+GIORNATA 3 
+Alcaraz vs Tsitsipas 
+Medvedev vs Rune 
